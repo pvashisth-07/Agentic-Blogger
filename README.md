@@ -44,9 +44,6 @@ This is an **LLM-powered blog generation and translation engine**, built using [
 
 ---
 
-
----
-
 ## 📸 Demo Screenshots
 <img width="914" height="753" alt="Screenshot 2025-07-13 034829" src="https://github.com/user-attachments/assets/5c0d8236-877a-4a14-9be6-925aafe22041" />
 <img width="752" height="556" alt="Screenshot 2025-07-13 152040" src="https://github.com/user-attachments/assets/13f9a356-7c4b-4dba-aa21-28edaa74dcd7" />
